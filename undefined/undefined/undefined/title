@@ -4,8 +4,9 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="keywords" content="（先不要点因为会自动下载文件……）你好！世界！, 安迪の小屋">
-    <meta name="description" content="Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hex">
+    <meta name="keywords" content="（先不要点它因为会自动下载文件……）第一篇文章，说些什么吧！, 安迪の小屋">
+    <meta name="description" content="这是建站以来第一篇文章（为了搞懂这玩意是怎么运作的就去找了很多教程和资料，累死了都……）。额没什么好说的因为现在网站还没做好这一篇文章也只能算个用来测试的
+">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta name="renderer" content="webkit|ie-stand|ie-comp">
@@ -17,7 +18,7 @@
     <!-- Global site tag (gtag.js) - Google Analytics -->
 
 
-    <title>（先不要点因为会自动下载文件……）你好！世界！ | 安迪の小屋</title>
+    <title>（先不要点它因为会自动下载文件……）第一篇文章，说些什么吧！ | 安迪の小屋</title>
     <link rel="icon" type="image/png" href="/favicon.png">
 
     <link rel="stylesheet" type="text/css" href="/libs/awesome/css/all.min.css">
@@ -243,12 +244,12 @@
 
 
 
-<div class="bg-cover pd-header post-cover" style="background-image: url('/medias/featureimages/10.jpg')">
+<div class="bg-cover pd-header post-cover" style="background-image: url('/medias/featureimages/7.jpg')">
     <div class="container" style="right: 0px;left: 0px;">
         <div class="row">
             <div class="col s12 m12 l12">
                 <div class="brand">
-                    <h1 class="description center-align post-title">（先不要点因为会自动下载文件……）你好！世界！</h1>
+                    <h1 class="description center-align post-title">（先不要点它因为会自动下载文件……）第一篇文章，说些什么吧！</h1>
                 </div>
             </div>
         </div>
@@ -364,8 +365,8 @@
                     
                     <div class="article-tag">
                         
-                            <a href="/tags/Hello-World/">
-                                <span class="chip bg-color">Hello World</span>
+                            <a href="/tags/%E6%97%A5%E5%B8%B8/">
+                                <span class="chip bg-color">日常</span>
                             </a>
                         
                     </div>
@@ -380,7 +381,7 @@
                 
                 <div class="post-date info-break-policy">
                     <i class="far fa-calendar-minus fa-fw"></i>Publish Date:&nbsp;&nbsp;
-                    2022-03-25
+                    2022-03-26
                 </div>
                 
 
@@ -401,19 +402,7 @@
 
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <p>Welcome to <a target="_blank" rel="noopener" href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a target="_blank" rel="noopener" href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a target="_blank" rel="noopener" href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a target="_blank" rel="noopener" href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+                <p>这是建站以来第一篇文章（为了搞懂这玩意是怎么运作的就去找了很多教程和资料，累死了都……）。额没什么好说的因为现在网站还没做好这一篇文章也只能算个用来测试的</p>
 
                 
             </div>
@@ -440,7 +429,7 @@
                     </i>
                 </span>
                 <span class="reprint-info">
-                    <a href="https://andymifans.github.io/undefined/undefined/undefined/hello-world">https://andymifans.github.io/undefined/undefined/undefined/hello-world</a>
+                    <a href="https://andymifans.github.io/undefined/undefined/undefined/title">https://andymifans.github.io/undefined/undefined/undefined/title</a>
                 </span>
             </div>
             <div class="reprint__notice">
@@ -478,8 +467,8 @@
                     
                         <div class="article-tag">
                             
-                                <a href="/tags/Hello-World/">
-                                    <span class="chip bg-color">Hello World</span>
+                                <a href="/tags/%E6%97%A5%E5%B8%B8/">
+                                    <span class="chip bg-color">日常</span>
                                 </a>
                             
                         </div>
@@ -650,7 +639,7 @@
         repo: '',
         owner: '',
         admin: null,
-        id: '2022-03-25T10-00-00',
+        id: '2022-03-26T10-12-02',
         distractionFreeMode: false  // Facebook-like distraction free mode
     });
 
@@ -674,7 +663,7 @@
 <script src="/libs/gitment/gitment.js"></script>
 <script>
 var gitment = new Gitment({
-    id: 'Fri Mar 25 2022 10:00:00 GMT+0800',
+    id: 'Sat Mar 26 2022 10:12:02 GMT+0800',
     owner: '',
     repo: '',
     oauth: {
@@ -699,9 +688,9 @@ gitment.render('gitment-content');
 
 <script type="text/javascript">
     disqus_config = function () {
-        this.page.url = 'https://andymifans.github.io/undefined/undefined/undefined/hello-world';
-        this.page.identifier = '/undefined/undefined/undefined/hello-world';
-        this.page.title = '（先不要点因为会自动下载文件……）你好！世界！';
+        this.page.url = 'https://andymifans.github.io/undefined/undefined/undefined/title';
+        this.page.identifier = '/undefined/undefined/undefined/title';
+        this.page.title = '（先不要点它因为会自动下载文件……）第一篇文章，说些什么吧！';
     };
     let disqus_shortname = '';
 
@@ -755,9 +744,10 @@ gitment.render('gitment-content');
 <article id="prenext-posts" class="prev-next articles">
     <div class="row article-row">
         
-        <div class="article col s12 m6" data-aos="fade-up">
+        <div class="article col s12 m6" data-aos="fade-up" data-aos="fade-up">
             <div class="article-badge left-badge text-color">
-                <i class="fas fa-chevron-left"></i>&nbsp;Previous</div>
+                <i class="far fa-dot-circle"></i>&nbsp;Current
+            </div>
             <div class="card">
                 <a href="/undefined/undefined/undefined/title">
                     <div class="card-image">
@@ -775,9 +765,9 @@ gitment.render('gitment-content');
                         
                     </div>
                     <div class="publish-info">
-                        <span class="publish-date">
-                            <i class="far fa-clock fa-fw icon-date"></i>2022-03-26
-                        </span>
+                            <span class="publish-date">
+                                <i class="far fa-clock fa-fw icon-date"></i>2022-03-26
+                            </span>
                         <span class="publish-author">
                             
                             <i class="fas fa-user fa-fw"></i>
@@ -786,6 +776,7 @@ gitment.render('gitment-content');
                         </span>
                     </div>
                 </div>
+
                 
                 <div class="card-action article-tags">
                     
@@ -801,7 +792,7 @@ gitment.render('gitment-content');
         
         <div class="article col s12 m6" data-aos="fade-up">
             <div class="article-badge right-badge text-color">
-                Current&nbsp;<i class="far fa-dot-circle"></i>
+                Next&nbsp;<i class="fas fa-chevron-right"></i>
             </div>
             <div class="card">
                 <a href="/undefined/undefined/undefined/hello-world">
@@ -831,7 +822,6 @@ gitment.render('gitment-content');
                         </span>
                     </div>
                 </div>
-
                 
                 <div class="card-action article-tags">
                     
