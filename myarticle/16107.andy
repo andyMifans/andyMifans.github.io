@@ -113,7 +113,7 @@
         <div class="logo-name">安迪的小屋</div>
         <div class="logo-desc">
             
-            个人博客啦啦啦
+            个人博客
             
         </div>
     </div>
@@ -382,7 +382,7 @@
                     </i>
                 </span>
                 <span class="reprint-info">
-                    <a href="https://andymifans.github.io/article/16107.html">https://andymifans.github.io/article/16107.html</a>
+                    <a href="https://andymifans.github.io/myarticle/16107.andy">https://andymifans.github.io/myarticle/16107.andy</a>
                 </span>
             </div>
             <div class="reprint__notice">
@@ -461,8 +461,8 @@
 
 <script type="text/javascript">
     disqus_config = function () {
-        this.page.url = 'https://andymifans.github.io/article/16107.html';
-        this.page.identifier = '/article/16107.html';
+        this.page.url = 'https://andymifans.github.io/myarticle/16107.andy';
+        this.page.identifier = '/myarticle/16107.andy';
         this.page.title = 'Hello World';
     };
     let disqus_shortname = '';
@@ -521,7 +521,7 @@
             <div class="article-badge left-badge text-color">
                 <i class="fas fa-chevron-left"></i>&nbsp;上一篇</div>
             <div class="card">
-                <a href="/article/10788.html">
+                <a href="/myarticle/10788.andy">
                     <div class="card-image">
                         
                         
@@ -566,7 +566,7 @@
                 本篇&nbsp;<i class="far fa-dot-circle"></i>
             </div>
             <div class="card">
-                <a href="/article/16107.html">
+                <a href="/myarticle/16107.andy">
                     <div class="card-image">
                         
                         

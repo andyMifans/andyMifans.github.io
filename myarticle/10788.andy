@@ -4,9 +4,8 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="keywords" content="PictureTest, 安迪的小屋">
-    <meta name="description" content="尝试在这里头看看能不能放一张图片如果你能看到野兽先辈的照片，说明图片插入成功了不过这么臭的图片有存在这儿的必要吗？？？（恼
-">
+    <meta name="keywords" content="这个网站终于有点样子啦, 安迪的小屋">
+    <meta name="description" content="首先要说说为啥之前点击文章就会下载.md文件这件事……就是因为少了一个斜杠……不过还好现在已经解决了。网站的基本功能终于是算有了，接下来就是要学习如何使用Markdown语法和在文章底下添加评论。额要是有什么问题的话可以 &amp;#x3D;&amp;#x">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta name="renderer" content="webkit|ie-stand|ie-comp">
@@ -18,7 +17,7 @@
     <!-- Global site tag (gtag.js) - Google Analytics -->
 
 
-    <title>PictureTest | 安迪的小屋</title>
+    <title>这个网站终于有点样子啦 | 安迪的小屋</title>
     <link rel="icon" type="image/png" href="/fav.jfif">
 
     <link rel="stylesheet" type="text/css" href="/libs/awesome/css/all.min.css">
@@ -114,7 +113,7 @@
         <div class="logo-name">安迪的小屋</div>
         <div class="logo-desc">
             
-            个人博客啦啦啦
+            个人博客
             
         </div>
     </div>
@@ -186,7 +185,7 @@
         <div class="row">
             <div class="col s12 m12 l12">
                 <div class="brand">
-                    <h1 class="description center-align post-title">PictureTest</h1>
+                    <h1 class="description center-align post-title">这个网站终于有点样子啦</h1>
                 </div>
             </div>
         </div>
@@ -302,8 +301,8 @@
                     
                     <div class="article-tag">
                         
-                            <a href="/tags/%E6%B5%8B%E8%AF%95/">
-                                <span class="chip bg-color">测试</span>
+                            <a href="/tags/%E6%97%A5%E5%B8%B8/">
+                                <span class="chip bg-color">日常</span>
                             </a>
                         
                     </div>
@@ -318,7 +317,7 @@
                 
                 <div class="post-date info-break-policy">
                     <i class="far fa-calendar-minus fa-fw"></i>发布日期:&nbsp;&nbsp;
-                    2022-05-01
+                    2022-03-26
                 </div>
                 
 
@@ -344,7 +343,7 @@
 
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <h2 id="尝试在这里头看看能不能放一张图片"><a href="#尝试在这里头看看能不能放一张图片" class="headerlink" title="尝试在这里头看看能不能放一张图片"></a>尝试在这里头看看能不能放一张图片</h2><h3 id="如果你能看到野兽先辈的照片，说明图片插入成功了"><a href="#如果你能看到野兽先辈的照片，说明图片插入成功了" class="headerlink" title="如果你能看到野兽先辈的照片，说明图片插入成功了"></a>如果你能看到野兽先辈的照片，说明图片插入成功了</h3><p><img src="/article/36911/xianbei.jpg" alt="野兽先辈"><br>不过这么臭的图片有存在这儿的必要吗？？？（恼</p>
+                <p>首先要说说为啥之前点击文章就会下载.md文件这件事……就是因为少了一个斜杠……不过还好现在已经解决了。<br>网站的基本功能终于是算有了，接下来就是要学习如何使用Markdown语法和在文章底下添加评论。额要是有什么问题的话可以 &#x3D;&#x3D;点击进网站右边的蓝色聊天气泡，那个是腾讯兔小巢，可以留言的&#x3D;&#x3D;<br>我还只是个电脑小白以前只会用PowerPoint瞎几把整一堆活儿头一回在这种地方认真属实有点不习惯……<br>好吧……以后这里会慢慢完善的。</p>
 
                 
             </div>
@@ -371,7 +370,7 @@
                     </i>
                 </span>
                 <span class="reprint-info">
-                    <a href="https://andymifans.github.io/article/36911.html">https://andymifans.github.io/article/36911.html</a>
+                    <a href="https://andymifans.github.io/myarticle/10788.andy">https://andymifans.github.io/myarticle/10788.andy</a>
                 </span>
             </div>
             <div class="reprint__notice">
@@ -409,8 +408,8 @@
                     
                         <div class="article-tag">
                             
-                                <a href="/tags/%E6%B5%8B%E8%AF%95/">
-                                    <span class="chip bg-color">测试</span>
+                                <a href="/tags/%E6%97%A5%E5%B8%B8/">
+                                    <span class="chip bg-color">日常</span>
                                 </a>
                             
                         </div>
@@ -450,9 +449,9 @@
 
 <script type="text/javascript">
     disqus_config = function () {
-        this.page.url = 'https://andymifans.github.io/article/36911.html';
-        this.page.identifier = '/article/36911.html';
-        this.page.title = 'PictureTest';
+        this.page.url = 'https://andymifans.github.io/myarticle/10788.andy';
+        this.page.identifier = '/myarticle/10788.andy';
+        this.page.title = '这个网站终于有点样子啦';
     };
     let disqus_shortname = '';
 
@@ -506,12 +505,11 @@
 <article id="prenext-posts" class="prev-next articles">
     <div class="row article-row">
         
-        <div class="article col s12 m6" data-aos="fade-up" data-aos="fade-up">
+        <div class="article col s12 m6" data-aos="fade-up">
             <div class="article-badge left-badge text-color">
-                <i class="far fa-dot-circle"></i>&nbsp;本篇
-            </div>
+                <i class="fas fa-chevron-left"></i>&nbsp;上一篇</div>
             <div class="card">
-                <a href="/article/36911.html">
+                <a href="/myarticle/36911.andy">
                     <div class="card-image">
                         
                         
@@ -527,9 +525,9 @@
                         
                     </div>
                     <div class="publish-info">
-                            <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2022-05-01
-                            </span>
+                        <span class="publish-date">
+                            <i class="far fa-clock fa-fw icon-date"></i>2022-05-01
+                        </span>
                         <span class="publish-author">
                             
                             <i class="fas fa-user fa-fw"></i>
@@ -538,7 +536,6 @@
                         </span>
                     </div>
                 </div>
-
                 
                 <div class="card-action article-tags">
                     
@@ -557,13 +554,13 @@
                 下一篇&nbsp;<i class="fas fa-chevron-right"></i>
             </div>
             <div class="card">
-                <a href="/article/10788.html">
+                <a href="/myarticle/16107.andy">
                     <div class="card-image">
                         
                         
-                        <img src="/medias/featureimages/0.png" class="responsive-img" alt="这个网站终于有点样子啦">
+                        <img src="/medias/featureimages/0.png" class="responsive-img" alt="Hello World">
                         
-                        <span class="card-title">这个网站终于有点样子啦</span>
+                        <span class="card-title">Hello World</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
@@ -574,7 +571,7 @@
                     </div>
                     <div class="publish-info">
                             <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2022-03-26
+                                <i class="far fa-clock fa-fw icon-date"></i>1145-01-04
                             </span>
                         <span class="publish-author">
                             
@@ -587,8 +584,8 @@
                 
                 <div class="card-action article-tags">
                     
-                    <a href="/tags/%E6%97%A5%E5%B8%B8/">
-                        <span class="chip bg-color">日常</span>
+                    <a href="/tags/Hello-World/">
+                        <span class="chip bg-color">Hello World</span>
                     </a>
                     
                 </div>
